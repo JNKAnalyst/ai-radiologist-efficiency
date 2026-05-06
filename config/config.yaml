@@ -1,0 +1,11 @@
+data:
+  mimic_cxr_path: "data/mimic_cxr_reports.csv"
+  output_path: "data/processed_output.csv"
+
+nlp:
+  model: "vader"
+  urgency_threshold: 0.65
+  max_report_length: 512
+
+knime:
+  workflow_path: "knime_workflows/radiologist_efficiency_pipeline.knwf"

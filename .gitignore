@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project data — MIMIC-CXR is gated by a PhysioNet DUA
+data/mimic_cxr_reports.csv
+data/processed_output.csv
+
+# Dashboard artifacts (rebuilt locally)
+dashboards/*.twbx
+dashboards/*.pbix
+
+# KNIME workflow exports (rebuilt locally)
+knime_workflows/*.knwf

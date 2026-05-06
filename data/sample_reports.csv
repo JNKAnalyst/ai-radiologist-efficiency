@@ -1,0 +1,13 @@
+study_id,case_type,ai_assisted,turnaround_minutes,report_text
+50001,routine,1,8,"Frontal and lateral views of the chest. Lungs are clear. No focal consolidation, pleural effusion, or pneumothorax. Cardiomediastinal silhouette is normal. No acute cardiopulmonary process."
+50002,complex,1,17,"Persistent right lower lobe consolidation, slightly worsening compared to prior. Small right pleural effusion. No pneumothorax. Findings concerning for evolving pneumonia."
+50003,routine,0,12,"Stable post-operative changes. No acute findings. Lungs grossly clear. Heart size within normal limits."
+50004,review,1,22,"Acute development of large left pneumothorax with mediastinal shift. Tension pneumothorax cannot be excluded. Recommend immediate clinical correlation and intervention."
+50005,routine,1,7,"No acute cardiopulmonary findings. Lungs clear bilaterally. No pleural effusion."
+50006,complex,0,28,"New right upper lobe mass measuring 3.2 cm, suspicious for malignancy. Recommend dedicated CT for further characterization."
+50007,routine,1,9,"Stable mild cardiomegaly. No focal airspace disease. No effusion or pneumothorax."
+50008,review,1,18,"Severe pulmonary edema with bilateral pleural effusions. Findings consistent with acute decompensated heart failure."
+50009,complex,1,15,"Improving multifocal pneumonia. Decreased size of bilateral consolidations compared to prior study."
+50010,routine,0,14,"Lungs clear. Cardiomediastinal silhouette normal. No acute process."
+50011,review,1,20,"Rapidly worsening diffuse bilateral airspace opacities concerning for ARDS. Critical clinical correlation required."
+50012,routine,1,8,"Stable chronic findings. No acute cardiopulmonary abnormality identified."
